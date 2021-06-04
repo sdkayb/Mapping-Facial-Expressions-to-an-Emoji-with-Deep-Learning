@@ -1,0 +1,4 @@
+venv/
+.ipynb_checkpoints
+CNN_model.ipynb
+mini_projet_dev.ipynb
